@@ -1,1 +1,0 @@
-# device-samsung-greatlte
