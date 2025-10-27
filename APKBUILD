@@ -11,6 +11,7 @@ depends="
 	linux-samsung-greatlte
 	mkbootimg
 	postmarketos-base
+	dtbtool-exynos
 "
 makedepends="devicepkg-dev"
 source="
